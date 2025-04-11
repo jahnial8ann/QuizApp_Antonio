@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 
 const quizData = [
-    { question: 'What is the filifino term of cat?', options: ['Pusa', 'Aso', 'Lion', 'Juan Luna'], correctAnswer: 'Pusa' },
+    { question: 'What is the filipino term of cat?', options: ['Pusa', 'Aso', 'Lion', 'Juan Luna'], correctAnswer: 'Pusa' },
     { question: 'How many stars in the Philippine flag?', options: ['5', '3', '12', '6'], correctAnswer: '3' },
     { question: 'Who wrote "Noli me tangere"?', options: ['William Shakespeare', 'Dr. Jose Rizal', 'Andrei Jose', 'Jay Mark'], correctAnswer: 'Dr. Jose Rizal' }
 ];
