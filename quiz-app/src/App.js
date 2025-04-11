@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import './App.css';
 
 const quizData = [
-    { question: 'Who painted the Mona Lisa', options: ['San Miguel', 'Da Vinci', 'Leonardo San Miguel', 'Juan Luna'], correctAnswer: 'Da Vinci' },
-    { question: 'What is 3 * 3?', options: ['9', '16', '12', '6'], correctAnswer: '9' },
-    { question: 'Who wrote "Romeo and Juliet"?', options: ['William Shakespeare', 'San Miguel', 'Andrei Jose', 'Jay Mark'], correctAnswer: 'William Shakespeare' }
+    { question: 'What is the filifino term of cat?', options: ['Pusa', 'Aso', 'Lion', 'Juan Luna'], correctAnswer: 'Pusa' },
+    { question: 'How many stars in the Philippine flag?', options: ['5', '3', '12', '6'], correctAnswer: '3' },
+    { question: 'Who wrote "Noli me tangere"?', options: ['William Shakespeare', 'Dr. Jose Rizal', 'Andrei Jose', 'Jay Mark'], correctAnswer: 'Dr. Jose Rizal' }
 ];
 
 function App() {
